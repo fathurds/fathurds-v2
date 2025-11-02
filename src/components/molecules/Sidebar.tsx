@@ -12,6 +12,11 @@ const menus = [
     link: "#experience",
   },
   {
+    id: "projects",
+    label: "PROJECTS",
+    link: "#projects",
+  },
+  {
     id: "education",
     label: "EDUCATION",
     link: "#education",
@@ -21,11 +26,6 @@ const menus = [
     label: "TRAINING & CERTIFICATION",
     link: "#training",
   },
-  // {
-  //   id: "project",
-  //   label: "PROJECTS",
-  //   link: "#project",
-  // },
 ];
 
 function Sidebar() {

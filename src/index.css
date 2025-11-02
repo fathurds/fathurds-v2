@@ -10,3 +10,7 @@ html {
 b {
   @apply text-white hover:text-sky-300 transition-colors
 }
+
+.rc-image-preview-progress {
+  @apply text-white text-shadow-[1px_1px_black]
+}

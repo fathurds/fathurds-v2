@@ -4,5 +4,6 @@ import Experience from "./Experience";
 import HeroSection from "./HeroSection";
 import LinkSosmed from "./LinkSosmed";
 import Sidebar from "./Sidebar";
+import Projects from "./Projects";
 
-export { About, Education, Experience, HeroSection, LinkSosmed, Sidebar };
+export { About, Education, Experience, HeroSection, LinkSosmed, Sidebar, Projects };

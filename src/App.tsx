@@ -5,6 +5,7 @@ import {
   Experience,
   HeroSection,
   LinkSosmed,
+  Projects,
   Sidebar,
 } from "./components/molecules";
 
@@ -28,6 +29,8 @@ function App() {
             <About />
 
             <Experience />
+
+            <Projects />
 
             <Education />
           </main>
